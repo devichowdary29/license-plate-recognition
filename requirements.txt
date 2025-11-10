@@ -1,8 +1,7 @@
-streamlit
-torch
-torchvision
-torchaudio
-ultralytics
-easyocr
-opencv-python
-pillow
+streamlit==1.39.0
+opencv-python==4.9.0
+easyocr==1.7.1
+ultralytics==8.2.0
+torch==2.2.0
+pillow==10.2.0
+python_version<3.13
